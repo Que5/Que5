@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Personal portfolio**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Solidity, Javascript**
+- 💬 Ask me about **Solidity, Python**
 
 - 📫 How to reach me **phumlanibrightdlamini@gmail.com**
 
