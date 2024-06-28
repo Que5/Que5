@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multi-Vendor e-Commerce**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Solidity, Python**
 
