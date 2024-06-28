@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=que5" alt="que5" /></a> </p>
 
-- 🔭 I’m currently working on **Dapp**
+- 🔭 I’m currently working on **Multi-Vendor e-Commerce**
 
 - 🌱 I’m currently learning **Python**
 
