@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **a Dapp called EventDex**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Solidity, Python**
+- 💬 Ask me about **Golang, Python**
 
 - 📫 How to reach me **phumlanibrightdlamini@gmail.com**
 
