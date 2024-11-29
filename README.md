@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Phumlani Dlamini</h1>
+<h1 align="center">Hi 👋, I'm Phumlani Bright Dlamini</h1>
 <h3 align="center">A passionate Django developer/ back-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=que5&label=Profile%20views&color=0e75b6&style=flat" alt="que5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=que5" alt="que5" /></a> </p>
 
-- 🔭 I’m currently working on **a Dapp called EventDex**
+- 🔭 I’m currently working on **an e-Commerce web app**
 
 - 🌱 I’m currently learning **Go**
 
