@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Phumlani Bright Dlamini</h1>
-<h3 align="center">A passionate Django/ smart-contract developer </h3>
+<h3 align="center">A passionate Python/ Data Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=que5&label=Profile%20views&color=0e75b6&style=flat" alt="que5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=que5" alt="que5" /></a> </p>
 
-- 🔭 I’m currently working on **an e-Commerce web app**
+- 🔭 I’m currently working on **ETL PIPELINE**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Golang, Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **phumlanibrightdlamini@gmail.com**
 
